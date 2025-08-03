@@ -8,17 +8,17 @@
 <img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/coding_logo_gif.gif">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Profil+Saya!;Coder+%7C+Crypto+Enthusiast+%7C+Hacker+Spirit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Profil+Saya!;Coder+Crypto+Enthusiast+%7C+Hacker+Spirit" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/cryptomoo89"><img src="https://img.shields.io/github/followers/cryptomoon89?label=Follow&style=social" /></a>
+  <a href="https://t.me/OnadioETH"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/Mikhamoon12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -55,14 +55,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptomoon89&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cryptomoon89&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptomoon89&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
-
-### 🧩 Fun ASCII Footer
 
 ```bash
     ██████╗░░█████╗░░█████╗░░█████╗░
