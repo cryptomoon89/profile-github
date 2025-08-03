@@ -5,8 +5,8 @@
 <link rel="icon" type="image/x-icon" href="https://rdxlr.github.io/logo/favicon.ico">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cryptomoon89/Cryptomoon89/main/IMG/rdxlr_logo_gif.gif">
-<img src="https://raw.githubusercontent.com/cryptomoon89/Cryptomoon89/main/IMG/keyboard.gif">
+<img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/rdxlr_logo_gif.gif">
+<img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/keyboard.gif">
 </p>
 
 ## Know More about me >>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/cryptomoon89"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Alygnt&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/cryptomoon89"><img width=550 src="https://github-profile-trophy.vercel.app/?username=cryptomoon89&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </p>
 
 <p align="center">
@@ -40,11 +40,11 @@
 
 ## I'm also in >>
 <p align="center">
-<a href="https://github.com/Cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/Cryptomoon89/Cryptomoon89.github.io/main/socialmedia/pics/github.png" width="150"></a>
-<a href="https://gitlab.com/Cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/Cryptomoon89/Cryptomoon89.github.io/main/socialmedia/pics/gitlab.png" width="150"></a>
-<a href="https://instagram.com/Cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/Cryptomoon89/Cryptomoon89.github.io/main/socialmedia/pics/instagram.png" width="150"></a>
-<a href="https://www.facebook.com/profile.php?id=61552517980412" ><img align="center" src="https://raw.githubusercontent.com/Cryptomoon89/Cryptomoon89.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
-<a href="https://twitter.com/Mikhamoon12" ><img align="center" src="https://raw.githubusercontent.com/Cryptomoon89/Cryptomoon89.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
+<a href="https://github.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/github.png" width="150"></a>
+<a href="https://gitlab.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/gitlab.png" width="150"></a>
+<a href="https://instagram.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/instagram.png" width="150"></a>
+<a href="https://www.facebook.com/profile.php?id=61552517980412" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
+<a href="https://twitter.com/Mikhamoon12" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
 </p>
 
 ## Expect and always try for a BIG!!!
