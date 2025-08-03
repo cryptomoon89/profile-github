@@ -5,7 +5,7 @@
 <link rel="icon" type="image/x-icon" href="https://rdxlr.github.io/logo/favicon.ico">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/rdxlr_logo_gif.gif">
+<img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/coding_logo_gif.gif">
 <img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/keyboard.gif">
 </p>
 
