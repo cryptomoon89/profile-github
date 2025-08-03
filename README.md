@@ -34,17 +34,4 @@
 </p>
 
  
-## Basic Stats >>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cryptomoon89/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cryptomoon89/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
-
-## I'm also in >>
-<p align="center">
-<a href="https://github.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/github.png" width="150"></a>
-<a href="https://gitlab.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/gitlab.png" width="150"></a>
-<a href="https://instagram.com/cryptomoon89" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/instagram.png" width="150"></a>
-<a href="https://www.facebook.com/profile.php?id=61552517980412" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
-<a href="https://twitter.com/Mikhamoon12" ><img align="center" src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
-</p>
-
 ## Expect and always try for a BIG!!!
